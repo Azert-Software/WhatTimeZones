@@ -6,6 +6,8 @@ Small utility that outputs all timezones present on a Microsoft Windows machine.
 
 Either pull down and build the source or grab the exe under the distro folder.
 
+Execute the program as shown below.
+
 ```
 
 > .\WhatTimeZones.exe
