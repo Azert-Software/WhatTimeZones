@@ -15,7 +15,6 @@ namespace WhatTimeZones
                                   $"StandardName: {x.StandardName}"));
 
             Console.ReadLine();
-
         }
     }
 }
